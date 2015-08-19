@@ -1,0 +1,2348 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Themesama Shortcodes\n"
+"POT-Creation-Date: 2015-08-18 14:14+0200\n"
+"PO-Revision-Date: 2015-08-18 15:28+0200\n"
+"Last-Translator: \n"
+"Language-Team: ThemeSama <themesama9@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_attr__;esc_attr_e;"
+"esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../index.php:111
+msgid "Detail options not available for this shortcode, just click & insert"
+msgstr ""
+
+#: ../index.php:304 ../index.php:305 ../index.php:353
+#: ../includes/widgets.php:36
+msgid "Add Shortcode"
+msgstr ""
+
+#: ../index.php:323
+msgid "Shortcodes"
+msgstr ""
+
+#: ../index.php:351
+msgid "Shortcode Copied!"
+msgstr ""
+
+#: ../index.php:352
+msgid "Copy Clipboard"
+msgstr ""
+
+#: ../includes/option-types.php:17
+msgid "Sorry, this function does not exist"
+msgstr ""
+
+#: ../includes/option-types.php:138 ../includes/option-types.php:191
+msgid "Choose One"
+msgstr ""
+
+#: ../includes/option-types.php:143
+msgid "No Pages Found"
+msgstr ""
+
+#: ../includes/option-types.php:196
+msgid "No Posts Found"
+msgstr ""
+
+#: ../includes/option-types.php:334
+msgid "No Option Found"
+msgstr ""
+
+#: ../includes/option-types.php:391
+msgid "Choose Sidebar"
+msgstr ""
+
+#: ../includes/option-types.php:396
+msgid "No Sidebars"
+msgstr ""
+
+#: ../includes/option-types.php:550 ../includes/option-types.php:591
+msgid "Choose Image"
+msgstr ""
+
+#: ../includes/option-types.php:550 ../includes/option-types.php:591
+msgid "Send Shortcode Manager"
+msgstr ""
+
+#: ../includes/option-types.php:550 ../includes/option-types.php:591
+msgid "Add Media"
+msgstr ""
+
+#: ../includes/option-types.php:550 ../includes/option-types.php:591
+msgid "Upload"
+msgstr ""
+
+#: ../includes/option-types.php:600
+msgid "background-repeat"
+msgstr ""
+
+#: ../includes/option-types.php:601
+msgid "No Repeat"
+msgstr ""
+
+#: ../includes/option-types.php:602
+msgid "Repeat All"
+msgstr ""
+
+#: ../includes/option-types.php:603
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../includes/option-types.php:604
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../includes/option-types.php:605 ../includes/option-types.php:612
+msgid "Inherit"
+msgstr ""
+
+#: ../includes/option-types.php:609
+msgid "background-attachment"
+msgstr ""
+
+#: ../includes/option-types.php:610
+msgid "Fixed"
+msgstr ""
+
+#: ../includes/option-types.php:611
+msgid "Scroll"
+msgstr ""
+
+#: ../includes/option-types.php:616
+msgid "background-position"
+msgstr ""
+
+#: ../includes/option-types.php:617
+msgid "Left Top"
+msgstr ""
+
+#: ../includes/option-types.php:618
+msgid "Left Center"
+msgstr ""
+
+#: ../includes/option-types.php:619
+msgid "Left Bottom"
+msgstr ""
+
+#: ../includes/option-types.php:620
+msgid "Center Top"
+msgstr ""
+
+#: ../includes/option-types.php:621
+msgid "Center Center"
+msgstr ""
+
+#: ../includes/option-types.php:622
+msgid "Center Bottom"
+msgstr ""
+
+#: ../includes/option-types.php:623
+msgid "Right Top"
+msgstr ""
+
+#: ../includes/option-types.php:624
+msgid "Right Center"
+msgstr ""
+
+#: ../includes/option-types.php:625
+msgid "Right Bottom"
+msgstr ""
+
+#: ../includes/option-types.php:714
+msgid "Hide Icons"
+msgstr ""
+
+#: ../includes/option-types.php:715
+msgid "Show Icons"
+msgstr ""
+
+#: ../includes/option-types.php:719
+msgid "Type & Filter"
+msgstr ""
+
+#: ../includes/options.php:12
+msgid "Columns Layout"
+msgstr ""
+
+#: ../includes/options.php:17
+msgid "Columns"
+msgstr ""
+
+#: ../includes/options.php:45 ../includes/options.php:505
+#: ../includes/options.php:613 ../includes/options.php:696
+#: ../includes/options.php:869 ../includes/options.php:1188
+#: ../includes/options.php:1269 ../includes/options.php:1349
+#: ../includes/vc-shortcodes.php:66 ../includes/vc-shortcodes.php:78
+#: ../includes/vc-shortcodes.php:84 ../includes/vc-shortcodes.php:87
+#: ../includes/vc-shortcodes.php:140 ../includes/vc-shortcodes.php:194
+#: ../includes/vc-shortcodes.php:226 ../includes/vc-shortcodes.php:286
+#: ../includes/vc-shortcodes.php:316 ../includes/vc-shortcodes.php:329
+#: ../includes/vc-shortcodes.php:338 ../includes/vc-shortcodes.php:347
+#: ../includes/vc-shortcodes.php:398 ../includes/vc-shortcodes.php:415
+#: ../includes/vc-shortcodes.php:459 ../includes/vc-shortcodes.php:629
+#: ../includes/vc-shortcodes.php:639 ../includes/vc-shortcodes.php:647
+#: ../includes/vc-shortcodes.php:656 ../includes/vc-shortcodes.php:660
+#: ../includes/vc-shortcodes.php:665 ../includes/vc-shortcodes.php:774
+#: ../includes/vc-shortcodes.php:784 ../includes/vc-shortcodes.php:793
+#: ../includes/vc-shortcodes.php:802 ../includes/vc-shortcodes.php:806
+#: ../includes/vc-shortcodes.php:811 ../includes/vc-shortcodes.php:894
+#: ../includes/vc-shortcodes.php:922 ../includes/vc-shortcodes.php:940
+#: ../includes/vc-shortcodes.php:1087 ../includes/vc-shortcodes.php:1210
+#: ../includes/vc-shortcodes.php:1256 ../includes/vc-shortcodes.php:1258
+#: ../includes/vc-shortcodes.php:1300 ../includes/vc-shortcodes.php:1362
+#: ../includes/vc-shortcodes.php:1947 ../includes/vc-shortcodes.php:2038
+#: ../includes/vc-shortcodes.php:2172 ../includes/vc-shortcodes.php:2328
+msgid "Content"
+msgstr ""
+
+#: ../includes/options.php:72 ../includes/options.php:103
+#: ../includes/vc-shortcodes.php:10 ../includes/vc-shortcodes.php:1032
+#: ../includes/vc-shortcodes.php:1173 ../includes/vc-shortcodes.php:1180
+#: ../includes/vc-shortcodes.php:1273 ../includes/vc-shortcodes.php:2127
+#: ../includes/vc-shortcodes.php:2277
+msgid "Default"
+msgstr ""
+
+#: ../includes/options.php:76 ../includes/options.php:107
+#: ../includes/vc-shortcodes.php:11 ../includes/vc-shortcodes.php:1033
+#: ../includes/vc-shortcodes.php:1174 ../includes/vc-shortcodes.php:2128
+#: ../includes/vc-shortcodes.php:2278
+msgid "Dark Blue"
+msgstr ""
+
+#: ../includes/options.php:80 ../includes/options.php:111
+#: ../includes/vc-shortcodes.php:12 ../includes/vc-shortcodes.php:1034
+#: ../includes/vc-shortcodes.php:1175 ../includes/vc-shortcodes.php:2129
+#: ../includes/vc-shortcodes.php:2279
+msgid "Ocean Blue"
+msgstr ""
+
+#: ../includes/options.php:84 ../includes/options.php:115
+#: ../includes/vc-shortcodes.php:13 ../includes/vc-shortcodes.php:1035
+#: ../includes/vc-shortcodes.php:1176 ../includes/vc-shortcodes.php:2130
+#: ../includes/vc-shortcodes.php:2280
+msgid "Green"
+msgstr ""
+
+#: ../includes/options.php:88 ../includes/options.php:119
+#: ../includes/vc-shortcodes.php:14 ../includes/vc-shortcodes.php:1036
+#: ../includes/vc-shortcodes.php:1177 ../includes/vc-shortcodes.php:2131
+#: ../includes/vc-shortcodes.php:2281
+msgid "Orange"
+msgstr ""
+
+#: ../includes/options.php:92 ../includes/options.php:123
+#: ../includes/vc-shortcodes.php:15 ../includes/vc-shortcodes.php:1037
+#: ../includes/vc-shortcodes.php:1178 ../includes/vc-shortcodes.php:2132
+#: ../includes/vc-shortcodes.php:2282
+msgid "Yellow"
+msgstr ""
+
+#: ../includes/options.php:96 ../includes/options.php:131
+#: ../includes/options.php:595 ../includes/options.php:1321
+#: ../includes/vc-shortcodes.php:16 ../includes/vc-shortcodes.php:473
+#: ../includes/vc-shortcodes.php:908 ../includes/vc-shortcodes.php:1039
+#: ../includes/vc-shortcodes.php:2134 ../includes/vc-shortcodes.php:2344
+msgid "Custom"
+msgstr ""
+
+#: ../includes/options.php:127 ../includes/vc-shortcodes.php:1038
+#: ../includes/vc-shortcodes.php:1179 ../includes/vc-shortcodes.php:2133
+#: ../includes/vc-shortcodes.php:2283
+msgid "White"
+msgstr ""
+
+#: ../includes/options.php:164 ../includes/vc-shortcodes.php:936
+msgid "Button"
+msgstr ""
+
+#: ../includes/options.php:169 ../includes/options.php:1180
+#: ../includes/options.php:1261 ../includes/options.php:1456
+#: ../includes/options.php:1835 ../includes/options.php:1974
+#: ../includes/options.php:2650 ../includes/vc-shortcodes.php:75
+#: ../includes/vc-shortcodes.php:77 ../includes/vc-shortcodes.php:202
+#: ../includes/vc-shortcodes.php:295 ../includes/vc-shortcodes.php:946
+#: ../includes/vc-shortcodes.php:949 ../includes/vc-shortcodes.php:1093
+#: ../includes/vc-shortcodes.php:1095 ../includes/vc-shortcodes.php:1118
+#: ../includes/vc-shortcodes.php:1127 ../includes/vc-shortcodes.php:1129
+#: ../includes/vc-shortcodes.php:1911 ../includes/vc-shortcodes.php:1961
+#: ../includes/vc-shortcodes.php:2045
+msgid "Title"
+msgstr ""
+
+#: ../includes/options.php:177 ../includes/options.php:716
+#: ../includes/options.php:1669 ../includes/options.php:2052
+#: ../includes/options.php:2349 ../includes/options.php:2394
+#: ../includes/options.php:2519 ../includes/vc-shortcodes.php:525
+#: ../includes/vc-shortcodes.php:678 ../includes/vc-shortcodes.php:954
+#: ../includes/vc-shortcodes.php:1101 ../includes/vc-shortcodes.php:1135
+#: ../includes/vc-shortcodes.php:1238 ../includes/vc-shortcodes.php:1599
+#: ../includes/vc-shortcodes.php:1659 ../includes/vc-shortcodes.php:2507
+msgid "URL"
+msgstr ""
+
+#: ../includes/options.php:186 ../includes/options.php:725
+#: ../includes/options.php:1679 ../includes/options.php:2060
+#: ../includes/options.php:2527 ../includes/vc-shortcodes.php:534
+#: ../includes/vc-shortcodes.php:687 ../includes/vc-shortcodes.php:961
+#: ../includes/vc-shortcodes.php:1109 ../includes/vc-shortcodes.php:1143
+#: ../includes/vc-shortcodes.php:1246 ../includes/vc-shortcodes.php:2515
+msgid "Target"
+msgstr ""
+
+#: ../includes/options.php:196 ../includes/options.php:961
+#: ../includes/options.php:1937 ../includes/options.php:2564
+#: ../includes/vc-shortcodes.php:969 ../includes/vc-shortcodes.php:2115
+#: ../includes/vc-shortcodes.php:2259 ../includes/vc-shortcodes.php:2562
+msgid "Size"
+msgstr ""
+
+#: ../includes/options.php:202 ../includes/options.php:967
+#: ../includes/options.php:1943 ../includes/vc-shortcodes.php:972
+#: ../includes/vc-shortcodes.php:1274 ../includes/vc-shortcodes.php:2118
+#: ../includes/vc-shortcodes.php:2264
+msgid "Small"
+msgstr ""
+
+#: ../includes/options.php:206 ../includes/options.php:971
+#: ../includes/options.php:1947 ../includes/vc-shortcodes.php:973
+#: ../includes/vc-shortcodes.php:1275 ../includes/vc-shortcodes.php:2118
+#: ../includes/vc-shortcodes.php:2265
+msgid "Medium"
+msgstr ""
+
+#: ../includes/options.php:210 ../includes/options.php:975
+#: ../includes/options.php:1951 ../includes/vc-shortcodes.php:974
+#: ../includes/vc-shortcodes.php:1276 ../includes/vc-shortcodes.php:2118
+#: ../includes/vc-shortcodes.php:2266
+msgid "Large"
+msgstr ""
+
+#: ../includes/options.php:214 ../includes/options.php:979
+#: ../includes/vc-shortcodes.php:975 ../includes/vc-shortcodes.php:1277
+#: ../includes/vc-shortcodes.php:2267
+msgid "X-Large"
+msgstr ""
+
+#: ../includes/options.php:222 ../includes/options.php:603
+#: ../includes/options.php:645 ../includes/options.php:952
+#: ../includes/options.php:1043 ../includes/options.php:1171
+#: ../includes/options.php:1252 ../includes/options.php:1329
+#: ../includes/options.php:1860 ../includes/options.php:2034
+#: ../includes/vc-shortcodes.php:91 ../includes/vc-shortcodes.php:209
+#: ../includes/vc-shortcodes.php:300 ../includes/vc-shortcodes.php:480
+#: ../includes/vc-shortcodes.php:643 ../includes/vc-shortcodes.php:914
+#: ../includes/vc-shortcodes.php:981 ../includes/vc-shortcodes.php:986
+#: ../includes/vc-shortcodes.php:999 ../includes/vc-shortcodes.php:1007
+#: ../includes/vc-shortcodes.php:1216 ../includes/vc-shortcodes.php:1954
+#: ../includes/vc-shortcodes.php:2210 ../includes/vc-shortcodes.php:2214
+#: ../includes/vc-shortcodes.php:2222
+msgid "Icon"
+msgstr ""
+
+#: ../includes/options.php:229 ../includes/options.php:276
+#: ../includes/options.php:456 ../includes/options.php:746
+#: ../includes/options.php:756 ../includes/options.php:766
+#: ../includes/options.php:786 ../includes/options.php:890
+#: ../includes/options.php:900 ../includes/options.php:910
+#: ../includes/options.php:930 ../includes/options.php:1213
+#: ../includes/options.php:1284 ../includes/options.php:1372
+#: ../includes/options.php:1381 ../includes/options.php:1391
+#: ../includes/options.php:1400 ../includes/options.php:1418
+#: ../includes/options.php:1427 ../includes/options.php:1529
+#: ../includes/options.php:1538 ../includes/options.php:1547
+#: ../includes/options.php:1565 ../includes/options.php:1736
+#: ../includes/options.php:1746 ../includes/options.php:1756
+#: ../includes/options.php:1766 ../includes/options.php:1825
+#: ../includes/options.php:1964 ../includes/options.php:2158
+#: ../includes/options.php:2238 ../includes/options.php:2247
+#: ../includes/options.php:2304 ../includes/options.php:2340
+#: ../includes/options.php:2385 ../includes/options.php:2417
+#: ../includes/options.php:2426 ../includes/options.php:2436
+#: ../includes/options.php:2445 ../includes/options.php:2454
+#: ../includes/options.php:2730 ../includes/options.php:2740
+#: ../includes/options.php:2749 ../includes/options.php:2867
+#: ../includes/options.php:2876 ../includes/options.php:2885
+#: ../includes/options.php:2894 ../includes/options.php:2957
+#: ../includes/vc-shortcodes.php:1014 ../includes/vc-shortcodes.php:1023
+#: ../includes/vc-shortcodes.php:1155 ../includes/vc-shortcodes.php:1164
+#: ../includes/vc-shortcodes.php:2253
+msgid "ON"
+msgstr ""
+
+#: ../includes/options.php:229 ../includes/options.php:276
+#: ../includes/options.php:456 ../includes/options.php:746
+#: ../includes/options.php:756 ../includes/options.php:766
+#: ../includes/options.php:786 ../includes/options.php:890
+#: ../includes/options.php:900 ../includes/options.php:910
+#: ../includes/options.php:930 ../includes/options.php:1213
+#: ../includes/options.php:1284 ../includes/options.php:1372
+#: ../includes/options.php:1381 ../includes/options.php:1391
+#: ../includes/options.php:1400 ../includes/options.php:1418
+#: ../includes/options.php:1427 ../includes/options.php:1529
+#: ../includes/options.php:1538 ../includes/options.php:1547
+#: ../includes/options.php:1565 ../includes/options.php:1736
+#: ../includes/options.php:1746 ../includes/options.php:1756
+#: ../includes/options.php:1766 ../includes/options.php:1825
+#: ../includes/options.php:1964 ../includes/options.php:2158
+#: ../includes/options.php:2238 ../includes/options.php:2247
+#: ../includes/options.php:2304 ../includes/options.php:2340
+#: ../includes/options.php:2385 ../includes/options.php:2417
+#: ../includes/options.php:2426 ../includes/options.php:2436
+#: ../includes/options.php:2445 ../includes/options.php:2454
+#: ../includes/options.php:2730 ../includes/options.php:2740
+#: ../includes/options.php:2749 ../includes/options.php:2867
+#: ../includes/options.php:2876 ../includes/options.php:2885
+#: ../includes/options.php:2894 ../includes/options.php:2957
+#: ../includes/vc-shortcodes.php:1014 ../includes/vc-shortcodes.php:1023
+#: ../includes/vc-shortcodes.php:1155 ../includes/vc-shortcodes.php:1164
+#: ../includes/vc-shortcodes.php:2253
+msgid "OFF"
+msgstr ""
+
+#: ../includes/options.php:233
+msgid "Choose a Icon"
+msgstr ""
+
+#: ../includes/options.php:243 ../includes/vc-shortcodes.php:990
+#: ../includes/vc-shortcodes.php:2218
+msgid "Icon Position"
+msgstr ""
+
+#: ../includes/options.php:249 ../includes/options.php:329
+#: ../includes/options.php:435 ../includes/options.php:1107
+#: ../includes/options.php:1132 ../includes/options.php:1498
+#: ../includes/vc-shortcodes.php:993 ../includes/vc-shortcodes.php:1067
+#: ../includes/vc-shortcodes.php:1190 ../includes/vc-shortcodes.php:1937
+#: ../includes/vc-shortcodes.php:2220
+msgid "Left"
+msgstr ""
+
+#: ../includes/options.php:253 ../includes/options.php:321
+#: ../includes/options.php:427 ../includes/options.php:1107
+#: ../includes/options.php:1132 ../includes/options.php:1502
+#: ../includes/vc-shortcodes.php:994 ../includes/vc-shortcodes.php:1067
+#: ../includes/vc-shortcodes.php:1190 ../includes/vc-shortcodes.php:1937
+#: ../includes/vc-shortcodes.php:2220
+msgid "Right"
+msgstr ""
+
+#: ../includes/options.php:257 ../includes/options.php:1480
+#: ../includes/options.php:1922 ../includes/vc-shortcodes.php:995
+#: ../includes/vc-shortcodes.php:1930 ../includes/vc-shortcodes.php:2220
+msgid "Top"
+msgstr ""
+
+#: ../includes/options.php:261 ../includes/options.php:1484
+#: ../includes/options.php:1922 ../includes/vc-shortcodes.php:996
+#: ../includes/vc-shortcodes.php:1930
+msgid "Bottom"
+msgstr ""
+
+#: ../includes/options.php:271 ../includes/vc-shortcodes.php:1003
+msgid "Show Icon with Hover"
+msgstr ""
+
+#: ../includes/options.php:281 ../includes/options.php:291
+#: ../includes/options.php:408 ../includes/options.php:522
+#: ../includes/options.php:1869 ../includes/options.php:1999
+#: ../includes/options.php:2079 ../includes/options.php:2089
+#: ../includes/options.php:2133 ../includes/options.php:2143
+#: ../includes/options.php:2536 ../includes/options.php:2545
+#: ../includes/vc-shortcodes.php:111 ../includes/vc-shortcodes.php:164
+#: ../includes/vc-shortcodes.php:257 ../includes/vc-shortcodes.php:368
+#: ../includes/vc-shortcodes.php:428 ../includes/vc-shortcodes.php:1029
+#: ../includes/vc-shortcodes.php:1047 ../includes/vc-shortcodes.php:1170
+#: ../includes/vc-shortcodes.php:1331 ../includes/vc-shortcodes.php:1426
+#: ../includes/vc-shortcodes.php:2007 ../includes/vc-shortcodes.php:2124
+#: ../includes/vc-shortcodes.php:2274 ../includes/vc-shortcodes.php:2523
+msgid "Color"
+msgstr ""
+
+#: ../includes/options.php:301 ../includes/vc-shortcodes.php:1056
+msgid "Color (Hover)"
+msgstr ""
+
+#: ../includes/options.php:311 ../includes/options.php:417
+#: ../includes/vc-shortcodes.php:1065 ../includes/vc-shortcodes.php:1188
+msgid "Align"
+msgstr ""
+
+#: ../includes/options.php:325 ../includes/options.php:431
+#: ../includes/options.php:1506 ../includes/vc-shortcodes.php:1067
+#: ../includes/vc-shortcodes.php:1190 ../includes/vc-shortcodes.php:1937
+msgid "Center"
+msgstr ""
+
+#: ../includes/options.php:341 ../includes/vc-shortcodes.php:1083
+msgid "Buttons Set"
+msgstr ""
+
+#: ../includes/options.php:346
+msgid "Title - Left Button"
+msgstr ""
+
+#: ../includes/options.php:354
+msgid "URL - Left Button"
+msgstr ""
+
+#: ../includes/options.php:363
+msgid "Target - Left Button"
+msgstr ""
+
+#: ../includes/options.php:373
+msgid "Title - Right Button"
+msgstr ""
+
+#: ../includes/options.php:381
+msgid "URL - Right Button"
+msgstr ""
+
+#: ../includes/options.php:390
+msgid "Target - Right Button"
+msgstr ""
+
+#: ../includes/options.php:400
+msgid "Title - Button Center"
+msgstr ""
+
+#: ../includes/options.php:446
+msgid "Blockquote & InfoBox"
+msgstr ""
+
+#: ../includes/options.php:451 ../includes/vc-shortcodes.php:351
+msgid "Quote Icon"
+msgstr ""
+
+#: ../includes/options.php:460 ../includes/vc-shortcodes.php:359
+#: ../includes/vc-shortcodes.php:419
+msgid "Line Type"
+msgstr ""
+
+#: ../includes/options.php:465 ../includes/options.php:1123
+#: ../includes/vc-shortcodes.php:362 ../includes/vc-shortcodes.php:422
+msgid "Horizontal"
+msgstr ""
+
+#: ../includes/options.php:465 ../includes/options.php:1123
+#: ../includes/vc-shortcodes.php:362 ../includes/vc-shortcodes.php:422
+msgid "Vertical"
+msgstr ""
+
+#: ../includes/options.php:469 ../includes/options.php:1082
+#: ../includes/options.php:1145 ../includes/options.php:1226
+msgid "Color Options"
+msgstr ""
+
+#: ../includes/options.php:479 ../includes/options.php:1092
+#: ../includes/options.php:1155 ../includes/options.php:1236
+#: ../includes/options.php:1878 ../includes/options.php:2008
+#: ../includes/vc-shortcodes.php:119 ../includes/vc-shortcodes.php:172
+#: ../includes/vc-shortcodes.php:265 ../includes/vc-shortcodes.php:377
+#: ../includes/vc-shortcodes.php:437 ../includes/vc-shortcodes.php:1340
+#: ../includes/vc-shortcodes.php:1436 ../includes/vc-shortcodes.php:2016
+#: ../includes/vc-shortcodes.php:2150 ../includes/vc-shortcodes.php:2533
+msgid "Custom Color"
+msgstr ""
+
+#: ../includes/options.php:489 ../includes/vc-shortcodes.php:333
+msgid "Author"
+msgstr ""
+
+#: ../includes/options.php:497 ../includes/options.php:861
+#: ../includes/options.php:1611 ../includes/vc-shortcodes.php:342
+#: ../includes/vc-shortcodes.php:797 ../includes/vc-shortcodes.php:1785
+msgid "Job"
+msgstr ""
+
+#: ../includes/options.php:517 ../includes/options.php:2153
+#: ../includes/vc-shortcodes.php:1409
+msgid "Highlight"
+msgstr ""
+
+#: ../includes/options.php:532
+msgid "Text Color"
+msgstr ""
+
+#: ../includes/options.php:542 ../includes/options.php:1339
+#: ../includes/vc-shortcodes.php:488
+msgid "BG Color"
+msgstr ""
+
+#: ../includes/options.php:552 ../includes/options.php:1052
+#: ../includes/vc-shortcodes.php:495 ../includes/vc-shortcodes.php:2704
+msgid "Text"
+msgstr ""
+
+#: ../includes/options.php:563 ../includes/vc-shortcodes.php:890
+msgid "List Styles"
+msgstr ""
+
+#: ../includes/options.php:568 ../includes/options.php:2259
+#: ../includes/vc-shortcodes.php:900
+msgid "Type"
+msgstr ""
+
+#: ../includes/options.php:575 ../includes/vc-shortcodes.php:903
+#: ../includes/vc-shortcodes.php:2360
+msgid "Circle"
+msgstr ""
+
+#: ../includes/options.php:579 ../includes/vc-shortcodes.php:904
+#: ../includes/vc-shortcodes.php:2360
+msgid "Square"
+msgstr ""
+
+#: ../includes/options.php:583 ../includes/vc-shortcodes.php:905
+msgid "Roman"
+msgstr ""
+
+#: ../includes/options.php:587 ../includes/vc-shortcodes.php:906
+msgid "Latin"
+msgstr ""
+
+#: ../includes/options.php:591 ../includes/vc-shortcodes.php:907
+msgid "Katakana"
+msgstr ""
+
+#: ../includes/options.php:629 ../includes/vc-shortcodes.php:625
+msgid "Feature Box"
+msgstr ""
+
+#: ../includes/options.php:634 ../includes/options.php:808
+#: ../includes/options.php:2289 ../includes/vc-shortcodes.php:635
+#: ../includes/vc-shortcodes.php:780 ../includes/vc-shortcodes.php:1522
+msgid "Images"
+msgstr ""
+
+#: ../includes/options.php:654 ../includes/options.php:819
+#: ../includes/options.php:992 ../includes/vc-shortcodes.php:753
+#: ../includes/vc-shortcodes.php:872 ../includes/vc-shortcodes.php:1262
+#: ../includes/vc-shortcodes.php:1418
+msgid "Heading Size"
+msgstr ""
+
+#: ../includes/options.php:688 ../includes/options.php:1027
+#: ../includes/options.php:2162 ../includes/vc-shortcodes.php:651
+#: ../includes/vc-shortcodes.php:1223 ../includes/vc-shortcodes.php:1368
+msgid "Heading"
+msgstr ""
+
+#: ../includes/options.php:706 ../includes/options.php:1136
+#: ../includes/options.php:1217
+msgid "Open With"
+msgstr ""
+
+#: ../includes/options.php:712 ../includes/options.php:1141
+#: ../includes/options.php:1222 ../includes/options.php:1932
+msgid "Click"
+msgstr ""
+
+#: ../includes/options.php:712 ../includes/options.php:1141
+#: ../includes/options.php:1222 ../includes/options.php:1932
+msgid "Hover"
+msgstr ""
+
+#: ../includes/options.php:735 ../includes/options.php:879
+#: ../includes/vc-shortcodes.php:698 ../includes/vc-shortcodes.php:707
+#: ../includes/vc-shortcodes.php:715 ../includes/vc-shortcodes.php:723
+#: ../includes/vc-shortcodes.php:732 ../includes/vc-shortcodes.php:740
+#: ../includes/vc-shortcodes.php:817 ../includes/vc-shortcodes.php:826
+#: ../includes/vc-shortcodes.php:834 ../includes/vc-shortcodes.php:842
+#: ../includes/vc-shortcodes.php:851 ../includes/vc-shortcodes.php:859
+#: ../includes/vc-shortcodes.php:1701 ../includes/vc-shortcodes.php:1709
+#: ../includes/vc-shortcodes.php:1717 ../includes/vc-shortcodes.php:1725
+#: ../includes/vc-shortcodes.php:1734 ../includes/vc-shortcodes.php:1742
+#: ../includes/vc-shortcodes.php:1819 ../includes/vc-shortcodes.php:1827
+#: ../includes/vc-shortcodes.php:1835 ../includes/vc-shortcodes.php:1843
+#: ../includes/vc-shortcodes.php:1851 ../includes/vc-shortcodes.php:1860
+#: ../includes/vc-shortcodes.php:1868 ../includes/vc-shortcodes.php:1876
+#: ../includes/vc-shortcodes.php:2392 ../includes/vc-shortcodes.php:2400
+#: ../includes/vc-shortcodes.php:2408 ../includes/vc-shortcodes.php:2416
+#: ../includes/vc-shortcodes.php:2424
+msgid "Slider Config"
+msgstr ""
+
+#: ../includes/options.php:736
+msgid "If you use a few images for a Feature Box, you can edit slider config."
+msgstr ""
+
+#: ../includes/options.php:741 ../includes/options.php:885
+#: ../includes/options.php:1366 ../includes/options.php:1524
+#: ../includes/options.php:1731 ../includes/options.php:2411
+#: ../includes/options.php:2862 ../includes/vc-shortcodes.php:583
+#: ../includes/vc-shortcodes.php:704 ../includes/vc-shortcodes.php:823
+#: ../includes/vc-shortcodes.php:1706 ../includes/vc-shortcodes.php:1823
+#: ../includes/vc-shortcodes.php:2396
+msgid "Auto Play"
+msgstr ""
+
+#: ../includes/options.php:751 ../includes/options.php:895
+#: ../includes/options.php:1376 ../includes/options.php:1533
+#: ../includes/options.php:2421 ../includes/options.php:2871
+#: ../includes/vc-shortcodes.php:712 ../includes/vc-shortcodes.php:831
+#: ../includes/vc-shortcodes.php:1714 ../includes/vc-shortcodes.php:1831
+#: ../includes/vc-shortcodes.php:2404
+msgid "Stop on Hover"
+msgstr ""
+
+#: ../includes/options.php:761 ../includes/options.php:905
+#: ../includes/options.php:1386 ../includes/options.php:1542
+#: ../includes/vc-shortcodes.php:720 ../includes/vc-shortcodes.php:839
+#: ../includes/vc-shortcodes.php:1722 ../includes/vc-shortcodes.php:1839
+msgid "Navigation"
+msgstr ""
+
+#: ../includes/options.php:771 ../includes/options.php:915
+#: ../includes/options.php:1404 ../includes/options.php:1551
+#: ../includes/vc-shortcodes.php:728 ../includes/vc-shortcodes.php:847
+#: ../includes/vc-shortcodes.php:1730 ../includes/vc-shortcodes.php:1855
+msgid "Effect"
+msgstr ""
+
+#: ../includes/options.php:776 ../includes/options.php:920
+#: ../includes/options.php:1409 ../includes/options.php:1556
+#: ../includes/vc-shortcodes.php:731 ../includes/vc-shortcodes.php:850
+#: ../includes/vc-shortcodes.php:1733 ../includes/vc-shortcodes.php:1858
+msgid "FADE"
+msgstr ""
+
+#: ../includes/options.php:776 ../includes/options.php:920
+#: ../includes/options.php:1409 ../includes/options.php:1556
+#: ../includes/vc-shortcodes.php:731 ../includes/vc-shortcodes.php:850
+#: ../includes/vc-shortcodes.php:1733 ../includes/vc-shortcodes.php:1858
+msgid "SCROLL"
+msgstr ""
+
+#: ../includes/options.php:781 ../includes/options.php:925
+#: ../includes/options.php:1413 ../includes/options.php:1560
+#: ../includes/options.php:2440 ../includes/options.php:2889
+#: ../includes/vc-shortcodes.php:737 ../includes/vc-shortcodes.php:856
+#: ../includes/vc-shortcodes.php:1739 ../includes/vc-shortcodes.php:1864
+#: ../includes/vc-shortcodes.php:2420
+msgid "Touch Drag"
+msgstr ""
+
+#: ../includes/options.php:791 ../includes/options.php:935
+#: ../includes/options.php:1431 ../includes/options.php:1569
+#: ../includes/options.php:2458 ../includes/options.php:2898
+#: ../includes/vc-shortcodes.php:696 ../includes/vc-shortcodes.php:815
+#: ../includes/vc-shortcodes.php:1698 ../includes/vc-shortcodes.php:1815
+#: ../includes/vc-shortcodes.php:2388
+msgid "Slide Duration Time (second)"
+msgstr ""
+
+#: ../includes/options.php:803 ../includes/vc-shortcodes.php:771
+msgid "Team Member"
+msgstr ""
+
+#: ../includes/options.php:853 ../includes/options.php:1603
+#: ../includes/vc-shortcodes.php:788 ../includes/vc-shortcodes.php:1778
+msgid "Name"
+msgstr ""
+
+#: ../includes/options.php:880
+msgid "If you use a few images for a team member, you can edit slider config."
+msgstr ""
+
+#: ../includes/options.php:947 ../includes/vc-shortcodes.php:1206
+msgid "Icon & Heading"
+msgstr ""
+
+#: ../includes/options.php:983 ../includes/vc-shortcodes.php:1278
+msgid "XX-Large"
+msgstr ""
+
+#: ../includes/options.php:1038
+msgid "Dropcap & Iconbox"
+msgstr ""
+
+#: ../includes/options.php:1060 ../includes/options.php:1298
+#: ../includes/options.php:1578 ../includes/options.php:1798
+#: ../includes/options.php:1898 ../includes/vc-shortcodes.php:466
+#: ../includes/vc-shortcodes.php:1985 ../includes/vc-shortcodes.php:2077
+#: ../includes/vc-shortcodes.php:2358
+msgid "Model"
+msgstr ""
+
+#: ../includes/options.php:1066
+msgid "Square BG"
+msgstr ""
+
+#: ../includes/options.php:1070
+msgid "Circle BG"
+msgstr ""
+
+#: ../includes/options.php:1074
+msgid "Transoarent BG"
+msgstr ""
+
+#: ../includes/options.php:1102
+msgid "Dropcap Position"
+msgstr ""
+
+#: ../includes/options.php:1113 ../includes/vc-shortcodes.php:223
+msgid "Tabs"
+msgstr ""
+
+#: ../includes/options.php:1118
+msgid "Tab Buttons"
+msgstr ""
+
+#: ../includes/options.php:1127 ../includes/vc-shortcodes.php:243
+msgid "Buttons Position"
+msgstr ""
+
+#: ../includes/options.php:1165
+msgid "Tab Section"
+msgstr ""
+
+#: ../includes/options.php:1167 ../includes/options.php:1443
+#: ../includes/options.php:1599 ../includes/options.php:1831
+#: ../includes/options.php:1970 ../includes/options.php:2030
+#: ../includes/options.php:2506
+msgid "Add New"
+msgstr ""
+
+#: ../includes/options.php:1168 ../includes/options.php:1444
+#: ../includes/options.php:1600 ../includes/options.php:1832
+#: ../includes/options.php:1971 ../includes/options.php:2031
+#: ../includes/options.php:2507
+msgid "Remove This"
+msgstr ""
+
+#: ../includes/options.php:1203
+msgid "Accordion & Toggle"
+msgstr ""
+
+#: ../includes/options.php:1208 ../includes/vc-shortcodes.php:149
+msgid "Collapsible"
+msgstr ""
+
+#: ../includes/options.php:1246
+msgid "Accordion Section"
+msgstr ""
+
+#: ../includes/options.php:1248
+msgid "Add New Section"
+msgstr ""
+
+#: ../includes/options.php:1249
+msgid "Remove This Section"
+msgstr ""
+
+#: ../includes/options.php:1279
+msgid "Activated"
+msgstr ""
+
+#: ../includes/options.php:1293 ../includes/vc-shortcodes.php:455
+msgid "Alert Boxes"
+msgstr ""
+
+#: ../includes/options.php:1305 ../includes/vc-shortcodes.php:469
+#: ../includes/vc-shortcodes.php:498
+msgid "Success"
+msgstr ""
+
+#: ../includes/options.php:1309 ../includes/vc-shortcodes.php:470
+msgid "Info"
+msgstr ""
+
+#: ../includes/options.php:1313 ../includes/vc-shortcodes.php:471
+msgid "Notice"
+msgstr ""
+
+#: ../includes/options.php:1317 ../includes/vc-shortcodes.php:472
+msgid "Error"
+msgstr ""
+
+#: ../includes/options.php:1361 ../includes/vc-shortcodes.php:1803
+msgid "Responsive Slider"
+msgstr ""
+
+#: ../includes/options.php:1395 ../includes/options.php:2431
+#: ../includes/options.php:2880 ../includes/vc-shortcodes.php:1847
+#: ../includes/vc-shortcodes.php:2412
+msgid "Pagination"
+msgstr ""
+
+#: ../includes/options.php:1422 ../includes/vc-shortcodes.php:1872
+msgid "Auto Height"
+msgstr ""
+
+#: ../includes/options.php:1441 ../includes/vc-shortcodes.php:1891
+msgid "Slider Item"
+msgstr ""
+
+#: ../includes/options.php:1447 ../includes/options.php:1619
+#: ../includes/options.php:1655 ../includes/options.php:2510
+#: ../includes/vc-shortcodes.php:515 ../includes/vc-shortcodes.php:521
+#: ../includes/vc-shortcodes.php:530 ../includes/vc-shortcodes.php:539
+#: ../includes/vc-shortcodes.php:1793 ../includes/vc-shortcodes.php:1902
+#: ../includes/vc-shortcodes.php:2498
+msgid "Image"
+msgstr ""
+
+#: ../includes/options.php:1464 ../includes/vc-shortcodes.php:1920
+msgid "Description"
+msgstr ""
+
+#: ../includes/options.php:1474 ../includes/vc-shortcodes.php:1928
+msgid "Description Vertical Position"
+msgstr ""
+
+#: ../includes/options.php:1492 ../includes/vc-shortcodes.php:1935
+msgid "Description Horizontal Position"
+msgstr ""
+
+#: ../includes/options.php:1519 ../includes/vc-shortcodes.php:1675
+msgid "Testimonials"
+msgstr ""
+
+#: ../includes/options.php:1585 ../includes/vc-shortcodes.php:1692
+msgid "Big Image"
+msgstr ""
+
+#: ../includes/options.php:1589 ../includes/options.php:1808
+#: ../includes/options.php:1905 ../includes/vc-shortcodes.php:1691
+#: ../includes/vc-shortcodes.php:1990 ../includes/vc-shortcodes.php:2080
+#: ../includes/vc-shortcodes.php:2360
+msgid "Standard"
+msgstr ""
+
+#: ../includes/options.php:1597 ../includes/vc-shortcodes.php:1758
+msgid "Testimonial"
+msgstr ""
+
+#: ../includes/options.php:1628 ../includes/vc-shortcodes.php:1770
+msgid "Testimonial Content"
+msgstr ""
+
+#: ../includes/options.php:1643 ../includes/vc-shortcodes.php:505
+msgid "Responsive Media"
+msgstr ""
+
+#: ../includes/options.php:1648
+msgid "Media Type"
+msgstr ""
+
+#: ../includes/options.php:1655 ../includes/vc-shortcodes.php:549
+#: ../includes/vc-shortcodes.php:559 ../includes/vc-shortcodes.php:569
+#: ../includes/vc-shortcodes.php:579 ../includes/vc-shortcodes.php:587
+#: ../includes/vc-shortcodes.php:595 ../includes/vc-shortcodes.php:603
+msgid "Video"
+msgstr ""
+
+#: ../includes/options.php:1659
+msgid "Your Image"
+msgstr ""
+
+#: ../includes/options.php:1689
+msgid "Embed Type"
+msgstr ""
+
+#: ../includes/options.php:1696
+msgid "url"
+msgstr ""
+
+#: ../includes/options.php:1696
+msgid "iframe"
+msgstr ""
+
+#: ../includes/options.php:1701
+msgid "Your Own Video (.mp4)"
+msgstr ""
+
+#: ../includes/options.php:1711
+msgid "Type (.webm)"
+msgstr ""
+
+#: ../includes/options.php:1721
+msgid "Type (.ogv)"
+msgstr ""
+
+#: ../includes/options.php:1741 ../includes/vc-shortcodes.php:591
+msgid "Muted"
+msgstr ""
+
+#: ../includes/options.php:1751
+msgid "Loop"
+msgstr ""
+
+#: ../includes/options.php:1771
+msgid "Poster"
+msgstr ""
+
+#: ../includes/options.php:1780
+msgid "Iframe Embed Code"
+msgstr ""
+
+#: ../includes/options.php:1793
+msgid "Progress Bars"
+msgstr ""
+
+#: ../includes/options.php:1804 ../includes/vc-shortcodes.php:1989
+msgid "White Label"
+msgstr ""
+
+#: ../includes/options.php:1812 ../includes/vc-shortcodes.php:1991
+msgid "Thin"
+msgstr ""
+
+#: ../includes/options.php:1820 ../includes/options.php:1959
+#: ../includes/vc-shortcodes.php:1998 ../includes/vc-shortcodes.php:2106
+msgid "Animated"
+msgstr ""
+
+#: ../includes/options.php:1829
+msgid "Bars"
+msgstr ""
+
+#: ../includes/options.php:1843 ../includes/options.php:1982
+#: ../includes/vc-shortcodes.php:1969
+msgid "Percentage (%)"
+msgstr ""
+
+#: ../includes/options.php:1852 ../includes/options.php:1991
+#: ../includes/vc-shortcodes.php:1978 ../includes/vc-shortcodes.php:2069
+msgid "Percentage Text"
+msgstr ""
+
+#: ../includes/options.php:1893 ../includes/vc-shortcodes.php:2035
+msgid "Pie Chart"
+msgstr ""
+
+#: ../includes/options.php:1909
+msgid "Tooltip Label"
+msgstr ""
+
+#: ../includes/options.php:1917 ../includes/vc-shortcodes.php:2086
+msgid "Tooltip Position"
+msgstr ""
+
+#: ../includes/options.php:1927
+msgid "Tooltip Method"
+msgstr ""
+
+#: ../includes/options.php:1968
+msgid "Charts"
+msgstr ""
+
+#: ../includes/options.php:2023
+msgid "Social Icons"
+msgstr ""
+
+#: ../includes/options.php:2028
+msgid "Social Icon"
+msgstr ""
+
+#: ../includes/options.php:2044
+msgid "Tooltip Title"
+msgstr ""
+
+#: ../includes/options.php:2074 ../includes/vc-shortcodes.php:1296
+#: ../includes/vc-shortcodes.php:1327
+msgid "Table"
+msgstr ""
+
+#: ../includes/options.php:2099
+msgid "Your Table"
+msgstr ""
+
+#: ../includes/options.php:2128 ../includes/vc-shortcodes.php:1359
+msgid "Pricing Table"
+msgstr ""
+
+#: ../includes/options.php:2170 ../includes/vc-shortcodes.php:1376
+msgid "Price Text"
+msgstr ""
+
+#: ../includes/options.php:2178 ../includes/vc-shortcodes.php:1384
+msgid "Currency"
+msgstr ""
+
+#: ../includes/options.php:2186 ../includes/vc-shortcodes.php:1391
+msgid "Period"
+msgstr ""
+
+#: ../includes/options.php:2194 ../includes/vc-shortcodes.php:1398
+msgid "Feature List"
+msgstr ""
+
+#: ../includes/options.php:2211 ../includes/vc-shortcodes.php:1456
+msgid "Twitter"
+msgstr ""
+
+#: ../includes/options.php:2216 ../includes/vc-shortcodes.php:1465
+msgid "Twitter User Name"
+msgstr ""
+
+#: ../includes/options.php:2224 ../includes/vc-shortcodes.php:1473
+msgid "How Many Tweets?"
+msgstr ""
+
+#: ../includes/options.php:2233 ../includes/vc-shortcodes.php:1481
+msgid "Replies"
+msgstr ""
+
+#: ../includes/options.php:2242 ../includes/vc-shortcodes.php:1488
+msgid "Retweeted"
+msgstr ""
+
+#: ../includes/options.php:2254 ../includes/vc-shortcodes.php:1513
+msgid "Photo Stream"
+msgstr ""
+
+#: ../includes/options.php:2267 ../includes/options.php:2283
+msgid "Gallery"
+msgstr ""
+
+#: ../includes/options.php:2271 ../includes/options.php:2312
+#: ../includes/vc-shortcodes.php:1555
+msgid "Instagram"
+msgstr ""
+
+#: ../includes/options.php:2275 ../includes/options.php:2357
+#: ../includes/vc-shortcodes.php:1615
+msgid "Flickr"
+msgstr ""
+
+#: ../includes/options.php:2299 ../includes/options.php:2335
+#: ../includes/options.php:2380
+msgid "First image bigger than others"
+msgstr ""
+
+#: ../includes/options.php:2318 ../includes/options.php:2363
+#: ../includes/vc-shortcodes.php:1564 ../includes/vc-shortcodes.php:1624
+msgid "User ID"
+msgstr ""
+
+#: ../includes/options.php:2326 ../includes/options.php:2371
+msgid "How Many Items?"
+msgstr ""
+
+#: ../includes/options.php:2344 ../includes/options.php:2389
+#: ../includes/vc-shortcodes.php:1596 ../includes/vc-shortcodes.php:1656
+msgid "Open with"
+msgstr ""
+
+#: ../includes/options.php:2349 ../includes/options.php:2394
+#: ../includes/vc-shortcodes.php:1599 ../includes/vc-shortcodes.php:1659
+msgid "LIGHTBOX"
+msgstr ""
+
+#: ../includes/options.php:2406
+msgid "Our Clients"
+msgstr ""
+
+#: ../includes/options.php:2449
+msgid "Grayscale Effect"
+msgstr ""
+
+#: ../includes/options.php:2468 ../includes/options.php:2908
+msgid "Show Max Items (Wide)"
+msgstr ""
+
+#: ../includes/options.php:2477 ../includes/options.php:2917
+#: ../includes/vc-shortcodes.php:2436
+msgid "Show Max Items (Desktop)"
+msgstr ""
+
+#: ../includes/options.php:2486 ../includes/options.php:2926
+#: ../includes/vc-shortcodes.php:2444
+msgid "Show Max Items (Tablet)"
+msgstr ""
+
+#: ../includes/options.php:2495 ../includes/options.php:2935
+#: ../includes/vc-shortcodes.php:2452
+msgid "Show Max Items (Mobile)"
+msgstr ""
+
+#: ../includes/options.php:2504
+msgid "A Client"
+msgstr ""
+
+#: ../includes/options.php:2559 ../includes/vc-shortcodes.php:2553
+msgid "Gap"
+msgstr ""
+
+#: ../includes/options.php:2574
+msgid "Line"
+msgstr ""
+
+#: ../includes/options.php:2579 ../includes/vc-shortcodes.php:2586
+msgid "Clear"
+msgstr ""
+
+#: ../includes/options.php:2607
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../includes/options.php:2612
+msgid "Choose a slider"
+msgstr ""
+
+#: ../includes/options.php:2645
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../includes/options.php:2658
+msgid "Choose a contact form"
+msgstr ""
+
+#: ../includes/options.php:2685
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/options.php:2690 ../includes/options.php:2826
+msgid "Thumbnail Model"
+msgstr ""
+
+#: ../includes/options.php:2697 ../includes/options.php:2832
+msgid "Model 1"
+msgstr ""
+
+#: ../includes/options.php:2701 ../includes/options.php:2836
+msgid "Model 2"
+msgstr ""
+
+#: ../includes/options.php:2705
+msgid "Model 3"
+msgstr ""
+
+#: ../includes/options.php:2713
+msgid "List Type"
+msgstr ""
+
+#: ../includes/options.php:2720
+msgid "MASONRY"
+msgstr ""
+
+#: ../includes/options.php:2720
+msgid "GRID"
+msgstr ""
+
+#: ../includes/options.php:2724
+msgid "Fit Grid Height?"
+msgstr ""
+
+#: ../includes/options.php:2734
+msgid "Loop Items Padding?"
+msgstr ""
+
+#: ../includes/options.php:2744
+msgid "Filterable"
+msgstr ""
+
+#: ../includes/options.php:2753
+msgid "Portfolio Max Columns"
+msgstr ""
+
+#: ../includes/options.php:2779 ../includes/options.php:3028
+msgid "Pagination Style"
+msgstr ""
+
+#: ../includes/options.php:2785 ../includes/options.php:3034
+msgid "Load More"
+msgstr ""
+
+#: ../includes/options.php:2789 ../includes/options.php:3038
+msgid "Older & Newer Button"
+msgstr ""
+
+#: ../includes/options.php:2793 ../includes/options.php:3042
+msgid "Page Numbers"
+msgstr ""
+
+#: ../includes/options.php:2801
+msgid "Portfolio Per Page"
+msgstr ""
+
+#: ../includes/options.php:2810 ../includes/options.php:2853
+#: ../includes/vc-shortcodes.php:745 ../includes/vc-shortcodes.php:864
+#: ../includes/vc-shortcodes.php:1537
+msgid "Image Size"
+msgstr ""
+
+#: ../includes/options.php:2821
+msgid "Latest Projects"
+msgstr ""
+
+#: ../includes/options.php:2844 ../includes/vc-shortcodes.php:1573
+#: ../includes/vc-shortcodes.php:1633 ../includes/vc-shortcodes.php:2658
+msgid "Limit"
+msgstr ""
+
+#: ../includes/options.php:2946
+msgid "Blog"
+msgstr ""
+
+#: ../includes/options.php:2951
+msgid "Masonry Style"
+msgstr ""
+
+#: ../includes/options.php:2961
+msgid "Masonry Max Columns"
+msgstr ""
+
+#: ../includes/options.php:2984
+msgid "Masonry Effect"
+msgstr ""
+
+#: ../includes/options.php:2991
+msgid "fade"
+msgstr ""
+
+#: ../includes/options.php:2995
+msgid "fadeInDown"
+msgstr ""
+
+#: ../includes/options.php:2999
+msgid "fadeInUp"
+msgstr ""
+
+#: ../includes/options.php:3003
+msgid "bounceIn"
+msgstr ""
+
+#: ../includes/options.php:3007
+msgid "flipInX"
+msgstr ""
+
+#: ../includes/options.php:3011
+msgid "flipInY"
+msgstr ""
+
+#: ../includes/options.php:3019
+msgid "Posts Per Page"
+msgstr ""
+
+#: ../includes/options.php:3050
+msgid "Meta Position"
+msgstr ""
+
+#: ../includes/options.php:3056
+msgid "Content After"
+msgstr ""
+
+#: ../includes/options.php:3060
+msgid "Media After"
+msgstr ""
+
+#: ../includes/options.php:3064
+msgid "Heading After"
+msgstr ""
+
+#: ../includes/options.php:3068
+msgid "Together with Read More Button"
+msgstr ""
+
+#: ../includes/shortcodes.php:111
+msgid "Connect Error"
+msgstr ""
+
+#: ../includes/shortcodes.php:208
+msgid "just now"
+msgstr ""
+
+#: ../includes/shortcodes.php:209
+msgid "years"
+msgstr ""
+
+#: ../includes/shortcodes.php:209
+msgid "months"
+msgstr ""
+
+#: ../includes/shortcodes.php:209
+msgid "weeks"
+msgstr ""
+
+#: ../includes/shortcodes.php:209
+msgid "days"
+msgstr ""
+
+#: ../includes/shortcodes.php:209
+msgid "hours"
+msgstr ""
+
+#: ../includes/shortcodes.php:209
+msgid "minutes"
+msgstr ""
+
+#: ../includes/shortcodes.php:209
+msgid "seconds"
+msgstr ""
+
+#: ../includes/shortcodes.php:210
+msgid "year"
+msgstr ""
+
+#: ../includes/shortcodes.php:210
+msgid "month"
+msgstr ""
+
+#: ../includes/shortcodes.php:210
+msgid "week"
+msgstr ""
+
+#: ../includes/shortcodes.php:210
+msgid "day"
+msgstr ""
+
+#: ../includes/shortcodes.php:210
+msgid "hour"
+msgstr ""
+
+#: ../includes/shortcodes.php:210
+msgid "minute"
+msgstr ""
+
+#: ../includes/shortcodes.php:210
+msgid "second"
+msgstr ""
+
+#: ../includes/shortcodes.php:216
+msgid "ago"
+msgstr ""
+
+#: ../includes/shortcodes.php:462
+msgid "Please check your shortcode config"
+msgstr ""
+
+#: ../includes/shortcodes.php:567
+msgid "Please check your config for twitter shortcode"
+msgstr ""
+
+#: ../includes/shortcodes.php:2037
+msgid "Please Insert a URL for Video"
+msgstr ""
+
+#: ../includes/slupy-shortcodes.php:161
+msgid "Name *"
+msgstr ""
+
+#: ../includes/slupy-shortcodes.php:162
+msgid "E-Mail *"
+msgstr ""
+
+#: ../includes/slupy-shortcodes.php:163
+msgid "Subject *"
+msgstr ""
+
+#: ../includes/slupy-shortcodes.php:164
+msgid "Message *"
+msgstr ""
+
+#: ../includes/slupy-shortcodes.php:165
+msgid "Send Message"
+msgstr ""
+
+#: ../includes/slupy-shortcodes.php:283
+msgid "Leave a comment"
+msgstr ""
+
+#: ../includes/slupy-shortcodes.php:283
+msgid "1 Comment"
+msgstr ""
+
+#: ../includes/slupy-shortcodes.php:283
+msgid "% Comments"
+msgstr ""
+
+#: ../includes/slupy-shortcodes.php:338
+msgid "All Works"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:21
+msgid "_blank"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:22
+msgid "_self"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:23
+msgid "_parent"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:24
+msgid "_top"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:28
+msgid "H3"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:29
+msgid "H1"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:30
+msgid "H2"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:31
+msgid "H4"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:32
+msgid "H5"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:33
+msgid "H6"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:63
+msgid "Toggle"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:68
+msgid "Add a toggle element"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:86
+msgid ""
+"<p>I am text block. Click edit button to change this text. Lorem ipsum dolor "
+"sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo.</p>"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:93 ../includes/vc-shortcodes.php:101
+#: ../includes/vc-shortcodes.php:107 ../includes/vc-shortcodes.php:152
+#: ../includes/vc-shortcodes.php:160 ../includes/vc-shortcodes.php:355
+#: ../includes/vc-shortcodes.php:364 ../includes/vc-shortcodes.php:674
+#: ../includes/vc-shortcodes.php:683 ../includes/vc-shortcodes.php:692
+#: ../includes/vc-shortcodes.php:1994 ../includes/vc-shortcodes.php:2003
+#: ../includes/vc-shortcodes.php:2082 ../includes/vc-shortcodes.php:2092
+#: ../includes/vc-shortcodes.php:2102 ../includes/vc-shortcodes.php:2111
+#: ../includes/vc-shortcodes.php:2230 ../includes/vc-shortcodes.php:2238
+#: ../includes/vc-shortcodes.php:2246 ../includes/vc-shortcodes.php:2255
+msgid "Extra"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:97 ../includes/vc-shortcodes.php:156
+#: ../includes/vc-shortcodes.php:250 ../includes/vc-shortcodes.php:669
+msgid "Trigger"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:100 ../includes/vc-shortcodes.php:159
+#: ../includes/vc-shortcodes.php:253 ../includes/vc-shortcodes.php:672
+#: ../includes/vc-shortcodes.php:2099
+msgid "CLICK"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:100 ../includes/vc-shortcodes.php:159
+#: ../includes/vc-shortcodes.php:253 ../includes/vc-shortcodes.php:672
+#: ../includes/vc-shortcodes.php:2099
+msgid "HOVER"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:105 ../includes/vc-shortcodes.php:214
+#: ../includes/vc-shortcodes.php:305
+msgid "Initially open"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:114 ../includes/vc-shortcodes.php:167
+#: ../includes/vc-shortcodes.php:260 ../includes/vc-shortcodes.php:371
+#: ../includes/vc-shortcodes.php:431 ../includes/vc-shortcodes.php:1334
+msgid "Choose a defined color or a custom color"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:115 ../includes/vc-shortcodes.php:122
+#: ../includes/vc-shortcodes.php:130 ../includes/vc-shortcodes.php:168
+#: ../includes/vc-shortcodes.php:175 ../includes/vc-shortcodes.php:183
+#: ../includes/vc-shortcodes.php:261 ../includes/vc-shortcodes.php:268
+#: ../includes/vc-shortcodes.php:276 ../includes/vc-shortcodes.php:373
+#: ../includes/vc-shortcodes.php:381 ../includes/vc-shortcodes.php:389
+#: ../includes/vc-shortcodes.php:424 ../includes/vc-shortcodes.php:433
+#: ../includes/vc-shortcodes.php:441 ../includes/vc-shortcodes.php:449
+#: ../includes/vc-shortcodes.php:619 ../includes/vc-shortcodes.php:749
+#: ../includes/vc-shortcodes.php:757 ../includes/vc-shortcodes.php:765
+#: ../includes/vc-shortcodes.php:868 ../includes/vc-shortcodes.php:876
+#: ../includes/vc-shortcodes.php:884 ../includes/vc-shortcodes.php:1016
+#: ../includes/vc-shortcodes.php:1025 ../includes/vc-shortcodes.php:1043
+#: ../includes/vc-shortcodes.php:1052 ../includes/vc-shortcodes.php:1061
+#: ../includes/vc-shortcodes.php:1069 ../includes/vc-shortcodes.php:1077
+#: ../includes/vc-shortcodes.php:1157 ../includes/vc-shortcodes.php:1166
+#: ../includes/vc-shortcodes.php:1184 ../includes/vc-shortcodes.php:1192
+#: ../includes/vc-shortcodes.php:1200 ../includes/vc-shortcodes.php:1266
+#: ../includes/vc-shortcodes.php:1282 ../includes/vc-shortcodes.php:1290
+#: ../includes/vc-shortcodes.php:1336 ../includes/vc-shortcodes.php:1345
+#: ../includes/vc-shortcodes.php:1353 ../includes/vc-shortcodes.php:1414
+#: ../includes/vc-shortcodes.php:1422 ../includes/vc-shortcodes.php:1432
+#: ../includes/vc-shortcodes.php:1442 ../includes/vc-shortcodes.php:1450
+#: ../includes/vc-shortcodes.php:1507 ../includes/vc-shortcodes.php:1541
+#: ../includes/vc-shortcodes.php:1549 ../includes/vc-shortcodes.php:1601
+#: ../includes/vc-shortcodes.php:1609 ../includes/vc-shortcodes.php:1661
+#: ../includes/vc-shortcodes.php:1669 ../includes/vc-shortcodes.php:1751
+#: ../includes/vc-shortcodes.php:1884 ../includes/vc-shortcodes.php:2012
+#: ../includes/vc-shortcodes.php:2021 ../includes/vc-shortcodes.php:2029
+#: ../includes/vc-shortcodes.php:2120 ../includes/vc-shortcodes.php:2138
+#: ../includes/vc-shortcodes.php:2146 ../includes/vc-shortcodes.php:2155
+#: ../includes/vc-shortcodes.php:2163 ../includes/vc-shortcodes.php:2270
+#: ../includes/vc-shortcodes.php:2287 ../includes/vc-shortcodes.php:2295
+#: ../includes/vc-shortcodes.php:2303 ../includes/vc-shortcodes.php:2311
+#: ../includes/vc-shortcodes.php:2319 ../includes/vc-shortcodes.php:2362
+#: ../includes/vc-shortcodes.php:2370 ../includes/vc-shortcodes.php:2464
+#: ../includes/vc-shortcodes.php:2472 ../includes/vc-shortcodes.php:2480
+#: ../includes/vc-shortcodes.php:2529 ../includes/vc-shortcodes.php:2538
+#: ../includes/vc-shortcodes.php:2546
+msgid "Style"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:126 ../includes/vc-shortcodes.php:179
+#: ../includes/vc-shortcodes.php:272 ../includes/vc-shortcodes.php:385
+#: ../includes/vc-shortcodes.php:445 ../includes/vc-shortcodes.php:615
+#: ../includes/vc-shortcodes.php:761 ../includes/vc-shortcodes.php:880
+#: ../includes/vc-shortcodes.php:1073 ../includes/vc-shortcodes.php:1196
+#: ../includes/vc-shortcodes.php:1286 ../includes/vc-shortcodes.php:1349
+#: ../includes/vc-shortcodes.php:1446 ../includes/vc-shortcodes.php:1503
+#: ../includes/vc-shortcodes.php:1545 ../includes/vc-shortcodes.php:1605
+#: ../includes/vc-shortcodes.php:1665 ../includes/vc-shortcodes.php:1747
+#: ../includes/vc-shortcodes.php:1880 ../includes/vc-shortcodes.php:2025
+#: ../includes/vc-shortcodes.php:2159 ../includes/vc-shortcodes.php:2315
+#: ../includes/vc-shortcodes.php:2366 ../includes/vc-shortcodes.php:2476
+#: ../includes/vc-shortcodes.php:2542 ../includes/vc-shortcodes.php:2577
+#: ../includes/vc-shortcodes.php:2595
+msgid "Extra Class"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:136
+msgid "Accordion"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:139
+msgid "Add a accordion content"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:144
+msgid "Add accordion section"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:145
+msgid "Section 1"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:145
+msgid "Section 2"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:190
+msgid "Accordion Item"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:225
+msgid "Add a tab content"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:231
+msgid "Tab 1"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:231
+msgid "Tab 2"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:236
+msgid "Tab Buttons Direction"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:239
+msgid "&rarr;"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:239
+msgid "&darr;"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:246
+msgid "LEFT"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:246
+msgid "RIGHT"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:283
+msgid "Tab"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:285
+msgid "Add a new tab"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:313 ../includes/vc-shortcodes.php:325
+msgid "Blockquote"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:315
+msgid "Add a different style blockquote"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:327
+msgid ""
+"I am text block. Click edit button to change this text. Lorem ipsum dolor "
+"sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:336 ../includes/vc-shortcodes.php:345
+#: ../includes/vc-shortcodes.php:528 ../includes/vc-shortcodes.php:537
+#: ../includes/vc-shortcodes.php:681 ../includes/vc-shortcodes.php:690
+#: ../includes/vc-shortcodes.php:964 ../includes/vc-shortcodes.php:984
+#: ../includes/vc-shortcodes.php:1112 ../includes/vc-shortcodes.php:1146
+#: ../includes/vc-shortcodes.php:1241 ../includes/vc-shortcodes.php:1249
+#: ../includes/vc-shortcodes.php:1788 ../includes/vc-shortcodes.php:1796
+#: ../includes/vc-shortcodes.php:1915 ../includes/vc-shortcodes.php:1923
+#: ../includes/vc-shortcodes.php:2510 ../includes/vc-shortcodes.php:2518
+msgid "(Optional)"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:395
+msgid "Info Box"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:397
+msgid "Add a modal info box"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:409
+msgid ""
+"<p>I am text block. Click edit button to change this text. Lorem ipsum dolor "
+"sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo.</p>\n"
+"\n"
+"[ts_button title=\"Open Modal\" url=\"#change-modal-id\" class=\"mgf-modal"
+"\"]\n"
+"\n"
+"<div id=\"change-modal-id\" class=\"white-popup-block mfp-hide\">Modal "
+"Content Here</div>"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:458
+msgid "Add a custom alert box"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:475
+msgid "Choose your alert box type or add a custom alert box"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:507
+msgid "Add a responsive image or video"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:508 ../includes/vc-shortcodes.php:1516
+#: ../includes/vc-shortcodes.php:2491
+msgid "Media"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:543
+msgid "Video (.mp4)"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:553
+msgid "Video (.webm)"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:563
+msgid "Video (.ogv)"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:573
+msgid "Video Poster"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:599
+msgid "Controls"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:607
+msgid "Paste Iframe Here"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:611
+msgid "Embed"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:628
+msgid "Add a feature box"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:773
+msgid "Add a team member"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:893
+msgid "Add a <ul> or <ol> list"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:939
+msgid "Add a button"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1011 ../includes/vc-shortcodes.php:1152
+msgid "Border Style"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1020
+msgid "Title Attribute"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1041 ../includes/vc-shortcodes.php:1429
+#: ../includes/vc-shortcodes.php:2010 ../includes/vc-shortcodes.php:2136
+#: ../includes/vc-shortcodes.php:2285 ../includes/vc-shortcodes.php:2527
+msgid "Choose a defined color or custom color"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1086
+msgid "Add a buttons set"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1097 ../includes/vc-shortcodes.php:1105
+#: ../includes/vc-shortcodes.php:1114
+msgid "Left Button"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1120
+msgid "or"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1121
+msgid "Write a small text for buttons center"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1123
+msgid "Center Text"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1131 ../includes/vc-shortcodes.php:1139
+#: ../includes/vc-shortcodes.php:1148
+msgid "Right Button"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1161
+msgid "Title Attributes"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1182
+msgid "Choose a defined color"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1209
+msgid "Add font-awesome icons with heading"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1231
+msgid "Heading Small Text"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1270
+msgid "Icon Size"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1280
+msgid "If you add a icon without heading you can choose a size"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1299
+msgid "Add a different style table"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1361
+msgid "Add a pricing table"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1386
+msgid "$"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1393
+msgid "/ MO"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1458
+msgid "Add a twitter feed"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1459 ../includes/vc-shortcodes.php:1558
+#: ../includes/vc-shortcodes.php:1618
+msgid "Social"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1467
+msgid "envato"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1495 ../includes/vc-shortcodes.php:1581
+#: ../includes/vc-shortcodes.php:1641
+msgid "Update Period (Minutes)"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1515
+msgid "Add a small gallery with your own images"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1530 ../includes/vc-shortcodes.php:1589
+#: ../includes/vc-shortcodes.php:1649
+msgid "First Image Big"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1557
+msgid "Add a Instagram stream"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1568
+msgid ""
+"Write your User ID - Get <a href=\"http://jelled.com/instagram/lookup-user-id"
+"\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1617
+msgid "Add a Flickr stream"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1628
+msgid ""
+"Write your User ID - Get <a href=\"http://idgettr.com/\" target=\"_blank"
+"\">here</a>"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1679
+msgid "Add a testimonial slider"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1680 ../includes/vc-shortcodes.php:1763
+#: ../includes/vc-shortcodes.php:1808 ../includes/vc-shortcodes.php:1895
+#: ../includes/vc-shortcodes.php:2381
+msgid "Slider"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1687
+msgid "Testimonial Model"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1761
+msgid "A Testimonial Item"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1773
+msgid ""
+"<p>Testimonial content. Click edit button to change this text. Lorem ipsum "
+"dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo.</p>"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1780
+msgid "John Doe"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1807
+msgid "Add a responsive slider"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1894
+msgid "Add a slide for Responsive Slider"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1944
+msgid "Progress Bar"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1946
+msgid "Add a progress bar"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:1973
+msgid "Choose 1 between 100"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2037
+msgid "Animated pie chart"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2053
+msgid "Percentage"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2056
+msgid "50"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2057
+msgid "Choose -100 between 100"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2062
+msgid "Percentage Icon"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2072
+msgid "If you write a percentage equal value numbers can be animated"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2080
+msgid "Tooltip Text"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2089
+msgid "TOP"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2089
+msgid "BOTTOM"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2096
+msgid "Tooltip Handler"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2142
+msgid "Track Color"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2169
+msgid "Milestone"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2171
+msgid "Add a milestone element"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2178
+msgid "Start"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2186
+msgid "End"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2194
+msgid "Duration"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2202
+msgid "Subject"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2226
+msgid "Numbers Before"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2234
+msgid "Numbers After"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2242
+msgid "Decimals"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2250
+msgid "Number Separator"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2262
+msgid "XX-Small"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2263
+msgid "X-Small"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2291
+msgid "Number Color"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2299
+msgid "Subject Color"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2307
+msgid "Icon Color"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2325
+msgid "Countdown"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2327
+msgid "Add a countdown element"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2334
+msgid "Date"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2342
+msgid "Format"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2349
+msgid "Custom Format"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2352
+msgid ""
+"Use the following characters (in order) to indicate which periods you want "
+"to display: <strong>\"Y\"</strong> for years, <strong>\"O\"</strong> for "
+"months, <strong>\"W\"</strong> for weeks, <strong>\"D\"</strong> for days, "
+"<strong>\"H\"</strong> for hours, <strong>\"M\"</strong> for minutes, "
+"<strong>\"S\"</strong> for seconds. Use upper-case characters for mandatory "
+"periods, or the corresponding lower-case characters for optional periods, i."
+"e. only display if non-zero. Once one optional period is shown, all the ones "
+"after that are also shown."
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2376
+msgid "Image Carousel"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2380
+msgid "Add a image carousel"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2428
+msgid "Show Max Items"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2432 ../includes/vc-shortcodes.php:2440
+#: ../includes/vc-shortcodes.php:2448 ../includes/vc-shortcodes.php:2456
+msgid "Layout Config"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2460
+msgid "Image Grayscale"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2468
+msgid "Classic Style"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2487
+msgid "Carousel Item"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2490
+msgid "Add a carousel item"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2555
+msgid "Use a gap shortcode"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2556 ../includes/vc-shortcodes.php:2589
+msgid "Helper"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2570
+msgid "Horizontal Gap"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2588
+msgid "Use a clear shortcode"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2605 ../includes/vc-shortcodes.php:2614
+msgid "Sidebar"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2607
+msgid "Place widgetised sidebar"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2608 ../includes/vc-shortcodes.php:2625
+msgid "Structure"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2622
+msgid "Widget"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2624
+msgid "Add a single WP widget"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2631
+msgid "Widget title"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2633
+msgid ""
+"What text use as a widget title. Leave blank to use default widget title."
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2638
+msgid "Widget Type"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2641
+msgid "Archives"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2642
+msgid "Calendar"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2643
+msgid "Categories"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2644
+msgid "Meta"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2645
+msgid "Pages"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2646
+msgid "Recent Comments"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2647
+msgid "Recent Posts"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2648
+msgid "RSS"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2649
+msgid "Search"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2650
+msgid "Tag Cloud"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2651
+msgid "Custom Menu"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2664
+msgid "Display post date?"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2671
+msgid "Sort by"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2674
+msgid "Page title"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2675
+msgid "Page order"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2676
+msgid "Page ID"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2682
+msgid "Exclude"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2684
+msgid "Page IDs, separated by commas."
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2689
+msgid "Taxonomy"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2696
+msgid "Menu"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2699
+msgid ""
+"Custom menus not found. Please visit <b>Appearance > Menus</b> page to "
+"create new menu."
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2699
+msgid "Select menu"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2710 ../includes/vc-shortcodes.php:2721
+#: ../includes/vc-shortcodes.php:2745
+msgid "Options"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2713 ../includes/vc-shortcodes.php:2724
+msgid "Display as dropdown"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2714 ../includes/vc-shortcodes.php:2725
+msgid "Show post counts"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2715
+msgid "Show hierarchy"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2731
+msgid "RSS feed URL"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2737
+msgid "Items"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2739
+msgid "10 - Default"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2740
+msgid "How many items would you like to display?"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2748
+msgid "Display item content?"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2749
+msgid "Display item author if available?"
+msgstr ""
+
+#: ../includes/vc-shortcodes.php:2750
+msgid "Display item date?"
+msgstr ""
+
+#: ../includes/widgets.php:8
+msgid "Add shortcodes on a widget!"
+msgstr ""
+
+#: ../includes/widgets.php:11
+msgid "Themesama Shortcodes"
+msgstr ""
+
+#: ../includes/widgets.php:28
+msgid "Title:"
+msgstr ""
+
+#: ../includes/widgets.php:32
+msgid "Shortcode:"
+msgstr ""
+
+#: ../includes/widgets.php:42
+msgid "No Margin:"
+msgstr ""
+
+#: ../includes/widgets.php:44
+msgid "On"
+msgstr ""
+
+#: ../includes/widgets.php:45
+msgid "Off"
+msgstr ""

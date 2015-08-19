@@ -1,0 +1,551 @@
+/*Transition*/
+#themesama_shortcodetab > ul li a{
+  -webkit-transition: background .2s ease;
+     -moz-transition: background .2s ease;
+      -ms-transition: background .2s ease;
+       -o-transition: background .2s ease;
+          transition: background .2s ease;
+}
+.themesama_thumblivepreview img{
+  -webkit-transition: opacity .2s ease;
+     -moz-transition: opacity .2s ease;
+      -ms-transition: opacity .2s ease;
+       -o-transition: opacity .2s ease;
+          transition: opacity .2s ease;
+}
+
+/*---------------------------------------------
+  Shortcode Manager Button Icon
+---------------------------------------------*/
+.themesama_plus_icon:before,.themesama_minus_icon:before{
+  font-family: 'dashicons';
+  font-size: 16px;
+  content: '\f132';
+  vertical-align: top;
+  position: relative;
+  top: 1px;
+  margin-right: 1px;
+  color: #888;
+}
+.themesama_minus_icon:before{
+  content: '\f182';
+}
+.themesama_shortcode-button{
+  outline: 0;
+}
+/*---------------------------------------------
+  Shorcode Manager Content Config
+---------------------------------------------*/
+.themesama_shortcode_content{
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 159800;
+  background-color: #000;
+  background-color: rgba(0,0,0,.5);
+}
+
+.themesama_option_heading{
+  clear: both;
+  width: 100%;
+}
+
+.themesama_shortcode_content .media-frame-content{
+  background-color: #e9eaed !important;
+}
+
+.media-frame-content-margin{
+  margin: 20px 15px;
+  min-height: 600px;
+}
+
+#themesama_shortcodetab{
+  position: relative;
+  border: 0;
+  background: none !important;
+  background-color: transparent !important;
+}
+
+#themesama_shortcodetab > ul{
+  width: 220px;
+  margin: 0;
+  padding: 0;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: none;
+  border: 0;
+  font-weight: normal;
+}
+#themesama_shortcodetab > ul li{
+  padding: 0;
+  margin: 0 0 1px 0;
+  border: 0;
+  background: none;
+  width: 100%;
+}
+#themesama_shortcodetab > ul li a{
+  text-decoration: none;
+  color: #5e5e5f;
+  background-color: #f9f9f9;
+  font-size: 14px;
+  line-height: 1em;
+  padding: 10px;
+  display: block;
+  outline: 0;
+  width: 100%;
+}
+
+#themesama_shortcodetab > ul li.ui-tabs-active a, #themesama_shortcodetab > ul li a:hover{
+  background-color: #31353e;
+  color: #fff;
+  color: rgba(255,255,255,.7);
+}
+
+.tabs_shortcode_list{
+  position: relative;
+  display: block;
+  padding-left: 235px !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  padding-right: 0 !important;
+  margin-bottom: 20px;
+  border: 0;
+  background: none;
+  background-color: transparent;
+}
+.tabs_shortcode_list:empty{
+  background:url('../images/wpspin_light.gif') no-repeat 235px 5px;
+  height: 20px;
+}
+
+.themesama_option_heading{
+  line-height: 1em;
+  padding-top: 12px;
+  margin-bottom: 12px;
+  font-weight: normal;
+}
+/*---------------------------------------------
+  Radio Image and Checkbox
+---------------------------------------------*/
+.themesama_checkbox_title, .themesama_radio_title{
+  margin-right: 12px;
+}
+.themesama_radio_image + label img{
+  border:3px solid #ddd;
+} 
+.themesama_radio_image:checked + label img, .themesama_radio_image + label img:hover {
+  border:3px solid #82bf06;
+}
+
+/*---------------------------------------------
+  On/Off Switch
+---------------------------------------------*/
+.themesama_onoffswitch {
+    overflow: hidden; cursor: pointer;
+    border: 0px solid #999999; border-radius: 0px;
+    -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  display: block;
+  width: 100px;
+}
+.themesama_onoffswitch.medium_switch{
+  width: 120px;
+}
+.themesama_onoffswitch.big_switch{
+  width: 175px;
+}
+.themesama_onoffswitch-inner {
+    width: 200%; margin-left: -100%;
+    -moz-transition: margin 0.3s ease-in 0s; -webkit-transition: margin 0.3s ease-in 0s;
+    -o-transition: margin 0.3s ease-in 0s; transition: margin 0.3s ease-in 0s;
+}
+.themesama_onoffswitch-inner > div {
+    float: left; position: relative; width: 50%; height: 30px; padding: 0; line-height: 30px;
+    font-size: 10px; color: #fff; font-weight: bold;
+    text-transform: uppercase;
+    -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+}
+.themesama_onoffswitch-inner .themesama_onoffswitch-active {
+    padding-left: 15px;
+    background-color: #e1e1e1; color: #FFFFFF;
+}
+.themesama_onoffswitch-inner .themesama_onoffswitch-inactive {
+    padding-right: 15px;
+    background-color: #e1e1e1; color: #FFFFFF;
+    text-align: right;
+}
+.themesama_onoffswitch-switch {
+    width: 50%; margin: 0px; text-align: center;
+    border: 0px solid #999999;border-radius: 0px;
+    position: absolute; top: 0; bottom: 0;
+}
+.themesama_onoffswitch-active .themesama_onoffswitch-switch {
+    background: #1ca2f1; left: 0;
+}
+.themesama_onoffswitch-inactive .themesama_onoffswitch-switch {
+    background: #A1A1A1; right: 0;
+}
+.themesama_onoffswitch-active .themesama_onoffswitch-switch:after {
+  font-family:'FontAwesome';
+    content:"\f0d9"; position: absolute; top: 1px; right: 0;
+    margin-right: -8px;
+    font-size: 35px;
+    color: #e1e1e1;
+}
+.themesama_onoffswitch-inactive .themesama_onoffswitch-switch:after {
+  font-family:'FontAwesome';
+    content:"\f0da"; position: absolute; top: 1px; left: 0;
+    margin-left: -8px;
+    font-size: 35px;
+    color: #e1e1e1;
+}
+.themesama_onoffswitch.active .themesama_onoffswitch-inner {
+    margin-left: 0;
+}
+
+/*---------------------------------------------
+  Icon Box
+---------------------------------------------*/
+.themesama_toggle_icons {
+  position: relative;
+  height: 30px;
+  overflow: hidden;
+  background-color: #82bf06;
+  color: #fff;
+  cursor: pointer;
+  line-height: 30px;
+  font-size: 14px;
+  padding: 0 10px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.themesama_iconbox_content{
+  clear: both;
+  float: left;
+  margin-bottom: 20px;
+  width: 100%;
+}
+.themesama_toggle_icons div{
+  position: relative;
+  height: 30px;
+}
+.themesama_toggle_icons.active div{
+  top: -30px;
+}
+.themesama_iconbox_label i{
+  font-size: 16px;
+  padding: 5px;
+  background-color:#e0e0e0;
+  width: 16px;
+  height: 16px;
+  margin: 0 1px 1px 0;
+  text-align: center;
+  display: block;
+  float: left;
+}
+.themesama_checkbox_image:checked + i, .themesama_iconbox_label i:hover{
+  background-color:#82bf06;
+  color: #fff;
+  color: rgba(255,255,255,.7);
+}
+
+/*---------------------------------------------
+  Form Elements
+---------------------------------------------*/
+.themesama_thumblivepreview{
+  float: left;
+  width: 100%
+}
+.themesama_thumblivepreview a{
+  float: left;
+  margin-right: 3px;
+  margin-bottom: 3px;
+  position: relative;
+}
+.themesama_thumblivepreview a:hover i{
+  display: block;
+}
+.themesama_thumblivepreview a img{
+  max-width: 150px;
+  cursor: move;
+  vertical-align: bottom;
+}
+.themesama_thumblivepreview a i{
+  font-size: 16px;
+  position: absolute;
+  z-index: 1;
+  top: 8px;
+  right: 8px;
+  color: #fff;
+  display: none;
+}
+.themesama_thumblivepreview a i:hover{
+  color: red;
+}
+.themesama_shortcode_content .media-modal-backdrop{
+  z-index: 300;
+}
+.themesama_help_icon{
+  float: right;
+  font-size: 22px;
+  position: relative;
+  margin-top: -28px;
+  color: #aaa;
+  cursor: pointer;
+}
+.themesama_removerowbutton{
+  margin-top: 10px !important;
+}
+.themesama_filter_input{
+  width: 100%;
+  display: block;
+  margin-bottom: 12px;
+}
+.themesama_selectbox{
+  min-width: 280px;
+}
+.themesama_inputbox, .themesama_textarea{
+  width: 35em;
+  margin-right: 2px;
+  min-width: 200px;
+}
+.themesama_textarea{
+  width: 100%;
+}
+.themesama_upload_button{
+  margin-right: 20px !important;
+  vertical-align: top;
+  margin-top: 5px !important;
+}
+.themesama_backgroundtype .wp-picker-container{
+  position: relative;
+  top: 7px;
+}
+.themesama_numeric_slider{
+  position: relative;
+  height: 15px;
+  background-color: #e1e1e1;
+  width: 36em;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  cursor: pointer;
+  float: left;
+  margin-top: 6px;
+}
+.themesama_numeric_slider .ui-slider-range{
+  background-color: #bbb;
+  height: 15px;
+}
+.themesama_numeric_slider_title{
+  float: left;
+  margin-left: 20px;
+  font-weight: bold;
+  line-height: 24px;
+  background-color: #fff;
+  min-width: 24px;
+  height: 24px;
+  text-align: center;
+}
+.themesama_numeric_slider a{
+  position: absolute;
+  top: -2.5px;
+  height: 20px;
+  width: 15px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  outline: 0;
+}
+.themesama_copyclipboard_info{
+  display: none;
+  float: left;
+  height: 30px;
+  min-width: 30px;
+  line-height: 30px;
+  margin-top: 15px;
+}
+.themesama_a_groupcontent{
+  border: 1px dotted #aaa;
+  padding: 0 15px 15px 15px;
+  margin-bottom: 10px;
+}
+/*---------------------------------------------
+  Special Styles
+---------------------------------------------*/
+#themesama_spe_content{
+  float: left;
+  width: 97%;
+}
+#widget-list div[id*="ts_widget_shortcodes"] .widget-top{
+  border: 1px solid #fc5513;
+}
+/*---------------------------------------------
+  Admin Colors - Midnight
+---------------------------------------------*/
+.admin-color-midnight .themesama_numeric_slider a,
+.admin-color-midnight #themesama_shortcodetab > ul li.ui-tabs-active a,
+.admin-color-midnight #themesama_shortcodetab > ul li a:hover,
+.admin-color-midnight .themesama_checkbox_image:checked + i,
+.admin-color-midnight .themesama_iconbox_label i:hover,
+.admin-color-midnight .themesama_toggle_icons{
+  background-color: #e14d43;
+}
+.admin-color-midnight #widget-list div[id*="ts_widget_shortcodes"] .widget-top,
+.admin-color-midnight .themesama_radio_image:checked + label img, 
+.admin-color-midnight .themesama_thumblivepreview img,
+.admin-color-midnight .themesama_radio_image + label img:hover {
+  border:3px solid #e14d43;
+}
+.admin-color-midnight .themesama_onoffswitch-active .themesama_onoffswitch-switch {
+    background: #e14d43;
+}
+/*---------------------------------------------
+  Admin Colors - Fresh
+---------------------------------------------*/
+.admin-color-fresh .themesama_numeric_slider a,
+.admin-color-fresh #themesama_shortcodetab > ul li.ui-tabs-active a,
+.admin-color-fresh #themesama_shortcodetab > ul li a:hover,
+.admin-color-fresh .themesama_checkbox_image:checked + i,
+.admin-color-fresh .themesama_iconbox_label i:hover,
+.admin-color-fresh .themesama_toggle_icons{
+  background-color: #2ea2cc;
+}
+.admin-color-fresh #widget-list div[id*="ts_widget_shortcodes"] .widget-top,
+.admin-color-fresh .themesama_radio_image:checked + label img,
+.admin-color-fresh .themesama_thumblivepreview img, 
+.admin-color-fresh .themesama_radio_image + label img:hover {
+  border:3px solid #2ea2cc;
+}
+.admin-color-fresh .themesama_onoffswitch-active .themesama_onoffswitch-switch {
+    background: #2ea2cc;
+}
+/*---------------------------------------------
+  Admin Colors - Light
+---------------------------------------------*/
+.admin-color-light .themesama_numeric_slider a,
+.admin-color-light #themesama_shortcodetab > ul li.ui-tabs-active a,
+.admin-color-light #themesama_shortcodetab > ul li a:hover,
+.admin-color-light .themesama_checkbox_image:checked + i,
+.admin-color-light .themesama_iconbox_label i:hover,
+.admin-color-light .themesama_toggle_icons{
+  background-color: #888;
+}
+.admin-color-light #widget-list div[id*="ts_widget_shortcodes"] .widget-top,
+.admin-color-light .themesama_radio_image:checked + label img, 
+.admin-color-light .themesama_thumblivepreview img, 
+.admin-color-light .themesama_radio_image + label img:hover {
+  border:3px solid #888;
+}
+.admin-color-light .themesama_onoffswitch-active .themesama_onoffswitch-switch {
+    background: #888;
+}
+/*---------------------------------------------
+  Admin Colors - Blue
+---------------------------------------------*/
+.admin-color-blue .themesama_numeric_slider a,
+.admin-color-blue #themesama_shortcodetab > ul li.ui-tabs-active a,
+.admin-color-blue #themesama_shortcodetab > ul li a:hover,
+.admin-color-blue .themesama_checkbox_image:checked + i,
+.admin-color-blue .themesama_iconbox_label i:hover,
+.admin-color-blue .themesama_toggle_icons{
+  background-color: #52accc;
+}
+.admin-color-blue #widget-list div[id*="ts_widget_shortcodes"] .widget-top,
+.admin-color-blue .themesama_radio_image:checked + label img, 
+.admin-color-blue .themesama_thumblivepreview img, 
+.admin-color-blue .themesama_radio_image + label img:hover {
+  border:3px solid #52accc;
+}
+.admin-color-blue .themesama_onoffswitch-active .themesama_onoffswitch-switch {
+    background: #52accc;
+}
+/*---------------------------------------------
+  Admin Colors - Coffee
+---------------------------------------------*/
+.admin-color-coffee .themesama_numeric_slider a,
+.admin-color-coffee #themesama_shortcodetab > ul li.ui-tabs-active a,
+.admin-color-coffee #themesama_shortcodetab > ul li a:hover,
+.admin-color-coffee .themesama_checkbox_image:checked + i,
+.admin-color-coffee .themesama_iconbox_label i:hover,
+.admin-color-coffee .themesama_toggle_icons{
+  background-color: #c7a589;
+}
+.admin-color-coffee #widget-list div[id*="ts_widget_shortcodes"] .widget-top,
+.admin-color-coffee .themesama_radio_image:checked + label img, 
+.admin-color-coffee .themesama_thumblivepreview img, 
+.admin-color-coffee .themesama_radio_image + label img:hover {
+  border:3px solid #c7a589;
+}
+.admin-color-coffee .themesama_onoffswitch-active .themesama_onoffswitch-switch {
+    background: #c7a589;
+}
+/*---------------------------------------------
+  Admin Colors - Ectoplasm
+---------------------------------------------*/
+.admin-color-ectoplasm .themesama_numeric_slider a,
+.admin-color-ectoplasm #themesama_shortcodetab > ul li.ui-tabs-active a,
+.admin-color-ectoplasm #themesama_shortcodetab > ul li a:hover,
+.admin-color-ectoplasm .themesama_checkbox_image:checked + i,
+.admin-color-ectoplasm .themesama_iconbox_label i:hover,
+.admin-color-ectoplasm .themesama_toggle_icons{
+  background-color: #a3b745;
+}
+.admin-color-ectoplasm #widget-list div[id*="ts_widget_shortcodes"] .widget-top,
+.admin-color-ectoplasm .themesama_radio_image:checked + label img, 
+.admin-color-ectoplasm .themesama_thumblivepreview img, 
+.admin-color-ectoplasm .themesama_radio_image + label img:hover {
+  border:3px solid #a3b745;
+}
+.admin-color-ectoplasm .themesama_onoffswitch-active .themesama_onoffswitch-switch {
+    background: #a3b745;
+}
+/*---------------------------------------------
+  Admin Colors - Ocean
+---------------------------------------------*/
+.admin-color-ocean .themesama_numeric_slider a,
+.admin-color-ocean #themesama_shortcodetab > ul li.ui-tabs-active a,
+.admin-color-ocean #themesama_shortcodetab > ul li a:hover,
+.admin-color-ocean .themesama_checkbox_image:checked + i,
+.admin-color-ocean .themesama_iconbox_label i:hover,
+.admin-color-ocean .themesama_toggle_icons{
+  background-color: #9ebaa0;
+}
+.admin-color-ocean #widget-list div[id*="ts_widget_shortcodes"] .widget-top,
+.admin-color-ocean .themesama_radio_image:checked + label img, 
+.admin-color-ocean .themesama_thumblivepreview img, 
+.admin-color-ocean .themesama_radio_image + label img:hover {
+  border:3px solid #9ebaa0;
+}
+.admin-color-ocean .themesama_onoffswitch-active .themesama_onoffswitch-switch {
+    background: #9ebaa0;
+}
+/*---------------------------------------------
+  Admin Colors - Sunrise
+---------------------------------------------*/
+.admin-color-sunrise .themesama_numeric_slider a,
+.admin-color-sunrise #themesama_shortcodetab > ul li.ui-tabs-active a,
+.admin-color-sunrise #themesama_shortcodetab > ul li a:hover,
+.admin-color-sunrise .themesama_checkbox_image:checked + i,
+.admin-color-sunrise .themesama_iconbox_label i:hover,
+.admin-color-sunrise .themesama_toggle_icons{
+  background-color: #dd823b;
+}
+.admin-color-sunrise #widget-list div[id*="ts_widget_shortcodes"] .widget-top,
+.admin-color-sunrise .themesama_radio_image:checked + label img, 
+.admin-color-sunrise .themesama_thumblivepreview img, 
+.admin-color-sunrise .themesama_radio_image + label img:hover {
+  border:3px solid #dd823b;
+}
+.admin-color-sunrise .themesama_onoffswitch-active .themesama_onoffswitch-switch {
+    background: #dd823b;
+}

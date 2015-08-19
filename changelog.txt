@@ -1,0 +1,24 @@
+/// ThemSama Shortcodes Plugin Changelog
+* Version 1.0.5 (August 18, 2015)
+
+  Added: Plugin Translation Files
+  Updated: Themesama Shortcodes Widget Class
+
+* Version 1.0.4 (June 10, 2015)
+  
+  Updated hidden tab content extra space
+  Added: ts_add_to_cart shortcode url & target attribute
+
+* Version 1.0.3 (May 14, 2015)
+  
+  Updated Slupy Portfolio Shortcode
+
+* Version 1.0.2 (April 22, 2015)
+
+  Updated Google Map iframe in tab content
+
+* Version 1.0.1 (December 8, 2014)
+  
+  Updated Responsive Media Video Shortcode for WP 4.x
+
+* Initial Release (November 11, 2014)
